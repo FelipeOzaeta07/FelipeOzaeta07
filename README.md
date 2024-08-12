@@ -1,4 +1,4 @@
-
+![Descripción de la imagen](https://github.com/FelipeOzaeta07/FelipeOzaeta07/blob/main/Banner%20Felipe%20Ozaeta.png)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100082551741917) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe._oz/) 
